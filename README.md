@@ -1,4 +1,4 @@
-Full article coming soon to: https://victoronsoftware.com/
+Full article: https://victoronsoftware.com/posts/code-signing-windows/
 
 Example how to copy this directory to a Windows machine via SSH using SCP:
 ```bash
